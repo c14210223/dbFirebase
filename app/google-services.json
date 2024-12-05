@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648508425061",
+    "project_id": "freefirebase1305",
+    "storage_bucket": "freefirebase1305.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648508425061:android:c141f6ade6a91902fc578c",
+        "android_client_info": {
+          "package_name": "lat.c14210223.dbfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEvGi4VfwmqIOhPT6et9kWTSkOLI3LfhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
